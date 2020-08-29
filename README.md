@@ -55,7 +55,7 @@ service would be unable to access.
 
 # Examples
 
-- Stats overview
+- Statistics overview
 
   ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 
